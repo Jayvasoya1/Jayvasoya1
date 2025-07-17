@@ -9,14 +9,14 @@
 ### 👗 FashionFinder – Fashion Recommendation System  
 A content-based recommender system that helps users discover similar fashion products using deep learning and cosine similarity.  
 Built using **TensorFlow**, **Pandas**, **Numpy**, and **Streamlit**.  
-🔗 [GitHub Repo]([https://github.com/yourusername/FashionFinder](https://github.com/Jayvasoya1/Fashion_Recommender_System))
+🔗 [GitHub Repo](https://github.com/yourusername/FashionFinder](https://github.com/Jayvasoya1/Fashion_Recommender_System)
 
 ---
 
 ### 💰 BidBazaar – Real-time Bidding Web App  
 A MERN stack-based bidding platform enabling users to list products and bid live. Features include bid timers, auth, product filters.  
 Stack: **React**, **Redux Toolkit**, **Node.js**, **Express.js**, **MongoDB**.  
-🔗 [GitHub Repo]([https://github.com/yourusername/BidBazaar](https://github.com/Jayvasoya1/BidBazaar-Server))
+🔗 [GitHub Repo](https://github.com/yourusername/BidBazaar](https://github.com/Jayvasoya1/BidBazaar-Server)
 
 ---
 
